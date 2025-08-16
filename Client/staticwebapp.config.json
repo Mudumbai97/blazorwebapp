@@ -3,3 +3,8 @@
         "rewrite": "/index.html"
     }
 }
+
+{
+  "route": "/profile/index.html",
+  "allowedRoles": ["authenticated"]
+}
